@@ -1,6 +1,6 @@
 # crytobloc
 
-A new Flutter project.
+ A demo exmaple appplication wityh real time api and real time handling of hydrated bloc persisted data.
 
 ## Getting Started
 
